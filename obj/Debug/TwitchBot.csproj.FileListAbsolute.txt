@@ -31,3 +31,15 @@ C:\Users\Wade\source\repos\TwitchBot\TwitchBot\bin\Debug\System.Security.Cryptog
 C:\Users\Wade\source\repos\TwitchBot\TwitchBot\bin\Debug\TwitchLib.dll
 C:\Users\Wade\source\repos\TwitchBot\TwitchBot\bin\Debug\WebSocket4Net.dll
 C:\Users\Wade\source\repos\TwitchBot\TwitchBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Wade\Documents\GitHub\TwitchBot\bin\Debug\TwitchBot.exe.config
+C:\Users\Wade\Documents\GitHub\TwitchBot\bin\Debug\TwitchBot.exe
+C:\Users\Wade\Documents\GitHub\TwitchBot\bin\Debug\TwitchBot.pdb
+C:\Users\Wade\Documents\GitHub\TwitchBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Wade\Documents\GitHub\TwitchBot\obj\Debug\TwitchBot.csprojResolveAssemblyReference.cache
+C:\Users\Wade\Documents\GitHub\TwitchBot\obj\Debug\TwitchBot.frmMain.resources
+C:\Users\Wade\Documents\GitHub\TwitchBot\obj\Debug\TwitchBot.Properties.Resources.resources
+C:\Users\Wade\Documents\GitHub\TwitchBot\obj\Debug\TwitchBot.TwitchInfo.resources
+C:\Users\Wade\Documents\GitHub\TwitchBot\obj\Debug\TwitchBot.csproj.GenerateResource.Cache
+C:\Users\Wade\Documents\GitHub\TwitchBot\obj\Debug\TwitchBot.csproj.CoreCompileInputs.cache
+C:\Users\Wade\Documents\GitHub\TwitchBot\obj\Debug\TwitchBot.exe
+C:\Users\Wade\Documents\GitHub\TwitchBot\obj\Debug\TwitchBot.pdb

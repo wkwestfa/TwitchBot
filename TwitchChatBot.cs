@@ -3,34 +3,48 @@ using TwitchLib;
 using TwitchLib.Models.Client;
 using TwitchLib.Events.Client;
 using TwitchLib.Models.API.v5.Users;
+using System.Runtime.InteropServices;
 
 namespace TwitchBot
 {
     internal class TwitchChatBot
     {
-        public const string BOT_USERNAME = "60bot";
-        public const string BOT_TOKEN = "u1pf5dt74i6emwmk45jjw7rrs1i676";
-        public const string CHANNEL_NAME = "60SecondGamer";
-        public const string CLIENT_ID = "r45p6xwsohryer8fxizdjagu7xo2mq";
-
-        readonly ConnectionCredentials credentials = new ConnectionCredentials(BOT_USERNAME, BOT_TOKEN);
+        readonly ConnectionCredentials credentials = new ConnectionCredentials(TwitchInfo.BotUsername, TwitchInfo.BotToken);
         TwitchClient client;
 
         internal void Connect()
         {
+
             Console.WriteLine("Connecting");
 
-            client = new TwitchClient(credentials, CHANNEL_NAME, logging: true);
+            client = new TwitchClient(credentials, TwitchInfo.ChannelName, logging: false);
 
             client.OnLog += Client_OnLog;
             client.OnConnectionError += Client_OnConnectionError;
-
+            client.OnMessageReceived += Client_OnMessageReceived;
             client.Connect();
+        }
+
+        private void Client_OnMessageReceived(object sender, OnMessageReceivedArgs e)
+        {
+            bool firstMessage = false;
+
+            if (e.ChatMessage.Message == "!lastman" && firstMessage == false) {
+                client.SendMessage($" {e.ChatMessage.DisplayName} Wants to start Last Man Standing.  Three participants needed to begin.  To join type '!lastman'");
+                firstMessage = true;
+            }
+            else if (e.ChatMessage.Message == "!lastman") {
+                client.SendMessage($"{e.ChatMessage.DisplayName} Has joined the fray!!");
+            }
+            if(e.ChatMessage.Message.StartsWith("hi", StringComparison.InvariantCultureIgnoreCase))
+            {
+                client.SendMessage($"Hey there " + e.ChatMessage.DisplayName);
+            }
         }
 
         private void Client_OnLog(object sender, OnLogArgs e)
         {
-            Console.WriteLine(e.Data);
+            //Console.WriteLine(e.Data);
         }
 
         private void Client_OnConnectionError(object sender, OnConnectionErrorArgs e)
@@ -42,6 +56,7 @@ namespace TwitchBot
         {
             Console.WriteLine("Disconnecting");
         }
+
     }
 
 
