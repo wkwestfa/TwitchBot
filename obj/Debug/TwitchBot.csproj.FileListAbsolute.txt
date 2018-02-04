@@ -1,0 +1,33 @@
+C:\Users\Wade\AppData\Local\Temporary Projects\TwitchBot\bin\Debug\TwitchBot.exe.config
+C:\Users\Wade\AppData\Local\Temporary Projects\TwitchBot\bin\Debug\TwitchBot.exe
+C:\Users\Wade\AppData\Local\Temporary Projects\TwitchBot\bin\Debug\TwitchBot.pdb
+C:\Users\Wade\AppData\Local\Temporary Projects\TwitchBot\obj\Debug\TwitchBot.csprojResolveAssemblyReference.cache
+C:\Users\Wade\AppData\Local\Temporary Projects\TwitchBot\obj\Debug\TwitchBot.frmMain.resources
+C:\Users\Wade\AppData\Local\Temporary Projects\TwitchBot\obj\Debug\TwitchBot.Properties.Resources.resources
+C:\Users\Wade\AppData\Local\Temporary Projects\TwitchBot\obj\Debug\TwitchBot.csproj.GenerateResource.Cache
+C:\Users\Wade\AppData\Local\Temporary Projects\TwitchBot\obj\Debug\TwitchBot.csproj.CoreCompileInputs.cache
+C:\Users\Wade\AppData\Local\Temporary Projects\TwitchBot\obj\Debug\TwitchBot.exe
+C:\Users\Wade\AppData\Local\Temporary Projects\TwitchBot\obj\Debug\TwitchBot.pdb
+C:\Users\Wade\source\repos\TwitchBot\TwitchBot\bin\Debug\TwitchBot.exe.config
+C:\Users\Wade\source\repos\TwitchBot\TwitchBot\bin\Debug\TwitchBot.exe
+C:\Users\Wade\source\repos\TwitchBot\TwitchBot\bin\Debug\TwitchBot.pdb
+C:\Users\Wade\source\repos\TwitchBot\TwitchBot\obj\Debug\TwitchBot.csprojResolveAssemblyReference.cache
+C:\Users\Wade\source\repos\TwitchBot\TwitchBot\obj\Debug\TwitchBot.frmMain.resources
+C:\Users\Wade\source\repos\TwitchBot\TwitchBot\obj\Debug\TwitchBot.Properties.Resources.resources
+C:\Users\Wade\source\repos\TwitchBot\TwitchBot\obj\Debug\TwitchBot.csproj.GenerateResource.Cache
+C:\Users\Wade\source\repos\TwitchBot\TwitchBot\obj\Debug\TwitchBot.csproj.CoreCompileInputs.cache
+C:\Users\Wade\source\repos\TwitchBot\TwitchBot\obj\Debug\TwitchBot.exe
+C:\Users\Wade\source\repos\TwitchBot\TwitchBot\obj\Debug\TwitchBot.pdb
+C:\Users\Wade\source\repos\TwitchBot\TwitchBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Wade\source\repos\TwitchBot\TwitchBot\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\Wade\source\repos\TwitchBot\TwitchBot\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Wade\source\repos\TwitchBot\TwitchBot\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Wade\source\repos\TwitchBot\TwitchBot\bin\Debug\System.Net.Security.dll
+C:\Users\Wade\source\repos\TwitchBot\TwitchBot\bin\Debug\System.Net.Sockets.dll
+C:\Users\Wade\source\repos\TwitchBot\TwitchBot\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Wade\source\repos\TwitchBot\TwitchBot\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Wade\source\repos\TwitchBot\TwitchBot\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Wade\source\repos\TwitchBot\TwitchBot\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Wade\source\repos\TwitchBot\TwitchBot\bin\Debug\TwitchLib.dll
+C:\Users\Wade\source\repos\TwitchBot\TwitchBot\bin\Debug\WebSocket4Net.dll
+C:\Users\Wade\source\repos\TwitchBot\TwitchBot\bin\Debug\Newtonsoft.Json.xml
