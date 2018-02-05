@@ -43,3 +43,4 @@ C:\Users\Wade\Documents\GitHub\TwitchBot\obj\Debug\TwitchBot.csproj.GenerateReso
 C:\Users\Wade\Documents\GitHub\TwitchBot\obj\Debug\TwitchBot.csproj.CoreCompileInputs.cache
 C:\Users\Wade\Documents\GitHub\TwitchBot\obj\Debug\TwitchBot.exe
 C:\Users\Wade\Documents\GitHub\TwitchBot\obj\Debug\TwitchBot.pdb
+C:\Users\Wade\source\repos\TwitchBot\TwitchBot\obj\Debug\TwitchBot.Resources.TwitchInfo.resources
