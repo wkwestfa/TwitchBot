@@ -81,7 +81,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Classes\User.cs" />
+    <Compile Include="Classes\MyUser.cs" />
+    <Compile Include="Commands.cs" />
     <Compile Include="Forms\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -129,5 +130,6 @@
   <ItemGroup>
     <Content Include="Resources\Users.txt" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
